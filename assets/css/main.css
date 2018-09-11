@@ -3529,6 +3529,10 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
+		#wrapper details summary {
+			cursor: pointer;
+		}
+
 	@media screen and (max-width: 1280px) {
 
 		#wrapper > header {
